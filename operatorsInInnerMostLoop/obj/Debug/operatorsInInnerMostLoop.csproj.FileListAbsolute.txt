@@ -1,0 +1,6 @@
+c:\users\queen\documents\visual studio 2013\Projects\operatorsInInnerMostLoop\operatorsInInnerMostLoop\bin\Debug\operatorsInInnerMostLoop.exe.config
+c:\users\queen\documents\visual studio 2013\Projects\operatorsInInnerMostLoop\operatorsInInnerMostLoop\bin\Debug\operatorsInInnerMostLoop.exe
+c:\users\queen\documents\visual studio 2013\Projects\operatorsInInnerMostLoop\operatorsInInnerMostLoop\bin\Debug\operatorsInInnerMostLoop.pdb
+c:\users\queen\documents\visual studio 2013\Projects\operatorsInInnerMostLoop\operatorsInInnerMostLoop\obj\Debug\operatorsInInnerMostLoop.csprojResolveAssemblyReference.cache
+c:\users\queen\documents\visual studio 2013\Projects\operatorsInInnerMostLoop\operatorsInInnerMostLoop\obj\Debug\operatorsInInnerMostLoop.exe
+c:\users\queen\documents\visual studio 2013\Projects\operatorsInInnerMostLoop\operatorsInInnerMostLoop\obj\Debug\operatorsInInnerMostLoop.pdb

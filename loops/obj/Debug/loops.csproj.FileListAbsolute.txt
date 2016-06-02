@@ -1,0 +1,6 @@
+c:\users\queen\documents\visual studio 2013\Projects\loops\loops\bin\Debug\loops.exe.config
+c:\users\queen\documents\visual studio 2013\Projects\loops\loops\bin\Debug\loops.exe
+c:\users\queen\documents\visual studio 2013\Projects\loops\loops\bin\Debug\loops.pdb
+c:\users\queen\documents\visual studio 2013\Projects\loops\loops\obj\Debug\loops.csprojResolveAssemblyReference.cache
+c:\users\queen\documents\visual studio 2013\Projects\loops\loops\obj\Debug\loops.exe
+c:\users\queen\documents\visual studio 2013\Projects\loops\loops\obj\Debug\loops.pdb
